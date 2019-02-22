@@ -1,0 +1,4 @@
+[submodule "gams"]
+	path = gams
+	url = https://github.com/jredmondson/gams.git
+
